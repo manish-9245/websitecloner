@@ -67,7 +67,7 @@ A Streamlit-based tool that **clones and proxies any website** to your local mac
 - pip
 - Streamlit
 
-### 🛠️ Installation
+### 🛠️ Installation <>
 
 1. **Clone the Repository**
 ```bash
